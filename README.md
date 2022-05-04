@@ -8,7 +8,7 @@ anyways u can just decompile it
 <br>
 [2] Remove friends
 <br>
-[3] Remove Connections  
+[3] Remove Connections
 <br>
 [4] Close DMs
 <br>
