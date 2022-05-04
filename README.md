@@ -17,10 +17,13 @@ anyways u can just decompile it
 [6] Mass DM
 <br>
 **Note: REMEMBER ITS A DISCONTINUTED PROJECT SOME FEATURES DON'T WORK**
+<br>
 https://www.youtube.com/watch?v=3o4M9goNB5k&t=24s check here how it looks / use
 <img src="https://cdn.discordapp.com/attachments/971501089021108295/971509301719994368/unknown.png"></img>
 
 # Contact me
 acee#0001 on cord
+<br>
 https://discord.gg/acee
+<br>
 https://youtube.com/c/aceeontop
